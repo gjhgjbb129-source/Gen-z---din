@@ -1,0 +1,15 @@
+{
+  "name": "Gen Z Din — 25 July Petition",
+  "short_name": "Gen Z Din",
+  "description": "25 July ko Gen Z Din banane ke liye community petition wall",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#c9a876",
+  "theme_color": "#211b14",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
